@@ -53,7 +53,7 @@ CAPITULO 	VII
 
 CAPITULO VIII
 
-
+[![Blank-diagram-Page-2.png](https://i.postimg.cc/vTjYtc5V/Blank-diagram-Page-2.png)](https://postimg.cc/kRQPnM1J)
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
