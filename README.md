@@ -17,6 +17,7 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 1.- OBJETIVOS 
 
+El esrudio de la unidad 7 y 8 nos ayudara en la determinacion y calculo de diferentes circuitos para lo cual tendremos que tener en cuenta los diferentes teoremas que se nos presentaran a lo largo de la unidad 8.
 
 OBJETIVOS ESPECIFICOS CAPITULO VII
 
@@ -26,13 +27,9 @@ OBJETIVOS ESPECIFICOS CAPITULO VII
 
 ◆ Analizar divisores de voltaje con carga
 
-◆ Determinar el efecto de carga de un voltímetro en un circuito
-
 ◆ Analizar redes en escalera
 
 ◆ Analizar y aplicar un puente de Wheatstone
-
-◆ Localizar fallas en circuitos en serie-paralelo
 
 
 OBJETIVOS ESPECIFICOS CAPITULO VIII
@@ -40,8 +37,6 @@ OBJETIVOS ESPECIFICOS CAPITULO VIII
 ◆ Describir las características de una fuente de voltaje de cd
 
 ◆ Describir las características de una fuente de corriente
-
-◆ Realizar conversiones de fuente
 
 ◆ Aplicar el teorema de superposición al análisis de circuitos
 
