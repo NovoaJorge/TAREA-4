@@ -48,6 +48,8 @@ máxima
 
 CAPITULO 	VII
 
+[![Blank-diagram-6.png](https://i.postimg.cc/XXST07DR/Blank-diagram-6.png)](https://postimg.cc/fSCHcZsC)
+
 
 CAPITULO VIII
 
