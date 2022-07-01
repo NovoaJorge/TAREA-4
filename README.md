@@ -1,5 +1,6 @@
 
-[![Logo-ESPEOk.png](https://i.postimg.cc/P5XdL97z/Logo-ESPEOk.png)](https://postimg.cc/HVhqRZdV)
+
+[![ESPEtransparente.png](https://i.postimg.cc/nhpFH4dr/ESPEtransparente.png)](https://postimg.cc/RNp5dHxx)
                                                                         
 
 
@@ -64,6 +65,7 @@ CAPITULO VIII
 
 5.- CONCLUSIONES
 
+De acuerdo al analisis hecho en los capitulos 7 y 8 del libro de Principios de circuitos electricos Floyd podemos determinar de una manera propicia el correcto analisis de los circuitos en serie - paralelo de igual manero pudimos entender los diferentes teoremos que nos serviran para los calculos de super pocision entre otros, todo esto aplicando lo conocimientos y leyes adquiridas en las las anteriores unidades de aprendizaje.
 
 6.- BIBLIOGRAFÍA
 
